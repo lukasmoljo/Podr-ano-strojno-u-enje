@@ -1,0 +1,5 @@
+            file_name  ...               access_time
+0  Secret_file_11.txt  ...  Fri Mar 31 08:46:17 2023
+1  Secret_file_92.pdf  ...  Fri Mar 31 08:46:17 2023
+
+[2 rows x 10 columns]
